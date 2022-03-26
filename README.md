@@ -42,7 +42,7 @@ Head to task manager to check how much **RAM** you have. Go to the **Performance
 **NOTICE:**
 In my case I have 32GB of RAM, therefore using the above steps, I was able to allocate 16GB to minecraft. I heavily recomend doing this **if you have at least 20GB+ of RAM** to prevent crashes.
 
-Once you complete this step, click **Create** to finish making the profile:
+Once you complete this step, click **Create** to finish making the profile:\
 ![13](https://user-images.githubusercontent.com/69148063/160252046-23ae4d4b-602e-4538-ae41-6b070940a292.png)
 
 # Installation Help Part 3: Moving Files
