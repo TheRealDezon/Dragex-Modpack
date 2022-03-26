@@ -10,10 +10,10 @@ Here is the first part to a simple guide I created to help with installing this 
 
 2. Find the **latest** release.
 
-3. Download the source code for it:
+3. Download the source code for it:\
 ![1](https://user-images.githubusercontent.com/69148063/160249815-13dc9601-0f29-4c49-8ae8-bf679ecd6a99.png)
 
-4. Extract the files:
+4. Extract the files:\
 ![2](https://user-images.githubusercontent.com/69148063/160249948-a88fbae7-adbf-44b9-8ac2-565349c14536.png)
 
 5. Run the forge installer by double clicking it. **Make sure you select `client` and that this is set to your minecraft folder:**
