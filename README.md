@@ -8,8 +8,7 @@ The version of Forge that we use **forge-1.16.5-36.2.31** must be downloaded fro
 # Installation Help Part 1: Installing
 Managing the files and installing forge.
 
-1. Go to the releases section:\
-https://github.com/TheRealDezon/DragexSMP-Mods/releases
+1. Go to the <a href="https://github.com/TheRealDezon/DragexSMP-Mods/releases" target="_blank">releases</a> section:
 
 2. Find the **latest** release.
 
