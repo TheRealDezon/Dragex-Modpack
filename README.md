@@ -6,7 +6,8 @@ The version of Forge that we use **1.16.5** must be downloaded and run in order 
 # Installation Help Part 1: Installing
 Here is the first part to a simple guide I created to help with installing this modpack.
 
-1. Go to the releases section.
+1. Go to the releases section:\
+https://github.com/TheRealDezon/DragexSMP-Mods/releases
 
 2. Find the **latest** release.
 
