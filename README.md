@@ -1,10 +1,12 @@
 # DragexSMP Mods
-All the mods for DragexSMP
+All the mods for DragexSMP!\
+![modIcon](https://user-images.githubusercontent.com/69148063/160251762-eb5927cd-b1ba-4ca4-b5d9-a11d42e866d4.png)
 
-The version of Forge that we use **1.16.5** must be downloaded and run in order to install it into your minecraft folder. All other mods and addons that are required can be found in the **mods** folder in this repo. Just install forge and drag and drop this mods folder to your minecraft foler. **Make sure you delete your mods folder before dragging and dropping!** Also, make sure to download and drag the config folder to your minecraft folder. **Hit replace files if it asks!**
+# Important Notice
+The version of Forge that we use **forge-1.16.5-36.2.31** must be downloaded from this repo as we use a very specific version due to compatability issues. **Please go through the following installation guide that I made.**
 
 # Installation Help Part 1: Installing
-Here is the first part to a simple guide I created to help with installing this modpack.
+Here is the first part to a simple guide I created to help with installing this custom modpack.
 
 1. Go to the releases section:\
 https://github.com/TheRealDezon/DragexSMP-Mods/releases
@@ -27,22 +29,25 @@ https://github.com/TheRealDezon/DragexSMP-Mods/releases
 ![5](https://user-images.githubusercontent.com/69148063/160250330-2134ec13-30e9-4d9a-a274-0356507071e0.png)
 
 # Installation Help Part 2: Settings
-Here is the second part to a simple guide I created to help with configuring RAM.
+Configuring launch options to prevent crashing.
 
 Head to task manager to check how much **RAM** you have. Go to the **Performance** section and click **Memory**:\
 ![6](https://user-images.githubusercontent.com/69148063/160250478-2b6ee797-4147-45cb-bec7-58d0ab95acab.png)
 
-**For users with AT LEAST 8 GB of RAM!** Head back to the new installation section and hit **More Options**, look at the last section and make sure this number says **6**:\
+**For users with at least `8GB` of RAM.** Head back to the new installation section and hit **More Options**, look at the last section and make sure this number says **6**:\
 ![7](https://user-images.githubusercontent.com/69148063/160250697-a7f74acd-1bf8-40ed-a151-9ba725443568.png)
 
-**For users with 16+ GB of RAM!** Head back to the new installation section and hit **More Options** then make sure this number says **12**:\
+**For users with `16GB+` of RAM.** Head back to the new installation section and hit **More Options** then make sure this number says **12**:\
 ![8](https://user-images.githubusercontent.com/69148063/160250772-f7846001-90b9-4740-b82f-bdf6d5254778.png)
 
 **NOTICE:**
-In my case I have 32GB of RAM, therefore using the above steps, I was able to allocate 16GB to minecraft. I heavily recomend doing this **IF YOU HAVE 32GB** to prevent crashes.
+In my case I have 32GB of RAM, therefore using the above steps, I was able to allocate 16GB to minecraft. I heavily recomend doing this **if you have at least 20GB+ of RAM** to prevent crashes.
 
-# Installation Help Part 3: Dragging Mods
-Here is the third part to a simple guide I created to help with moving the mods to your folder.
+Once you complete this step, click **Create** to finish making the profile:
+![13](https://user-images.githubusercontent.com/69148063/160252046-23ae4d4b-602e-4538-ae41-6b070940a292.png)
+
+# Installation Help Part 3: Moving Files
+Moving the mods and configs over.
 
 1. After completing all of the above steps, please launch your game and let it load into the menu, then hit **Mods**:\
 ![9](https://user-images.githubusercontent.com/69148063/160251080-d574bc7f-26e5-4e4c-ba4f-884291b08895.png)
