@@ -6,9 +6,9 @@ The version of Forge that we use **1.16.5** must be downloaded and run in order 
 # Installation Help Part 1: Installing
 Here is the first part to a simple guide I created to help with installing this modpack.
 
-1. Go to the releases section.\
+1. Go to the releases section.
 
-2. Find the **latest** release.\
+2. Find the **latest** release.
 
 3. Download the source code for it:\
 ![1](https://user-images.githubusercontent.com/69148063/160249815-13dc9601-0f29-4c49-8ae8-bf679ecd6a99.png)
