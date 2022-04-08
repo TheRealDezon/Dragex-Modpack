@@ -2,12 +2,12 @@
 [transfer]
 	#If true, print current recipe type in log.Default:false
 	PrintRecipeType = false
-	#If true, the ingredient currently displayed by JEI will be transferred
-	UseDisplayedIngredient = false
 	#If tag has this mod's item, use it first.
 	ModPreference = []
 	#example:{\"itemName\" : \"minecraft:apple\", \"nbt\": \"{}\"}
 	ItemBlacklist = []
+	#If true, the ingredient currently displayed by JEI will be transferred
+	UseDisplayedIngredient = false
 	#example:{\"itemName\" : \"minecraft:apple\", \"nbt\": \"{}\"}
 	ListItemPreference = []
 
