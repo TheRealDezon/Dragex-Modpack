@@ -3,7 +3,7 @@ All the mods for DragexSMP!\
 ![modIcon-small-github](https://user-images.githubusercontent.com/69148063/160252228-cd261401-0f4a-49be-b181-6d627aab383f.png)
 
 # Important Notice
-The version of Forge that we use **forge-1.16.5-36.2.31** must be downloaded from this repo as we use a very specific version due to compatability issues. **Please go through the following installation guide that I made.**
+The version of Forge that we use **forge-1.16.5-36.2.33** must be downloaded from this repo as we use a very specific version due to compatability issues. **Please go through the following installation guide that I made. Make sure you select this version in all the following fields.**
 
 # Installation Help Part 1: Installing
 Managing the files and installing forge.
