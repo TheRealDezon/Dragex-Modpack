@@ -207,6 +207,9 @@
 	#Chance on 1000 to receive a Soul Receptacle on undead boss [0..1000|default:50]
 	#Range: 0 ~ 1000
 	chance_soul_receptacle_on_boss = 50
+	#Maximum xp rewarded with a Lost Page of ErdÃ¶s [1..200000|default:2000]
+	#Range: 1 ~ 200000
+	max_xp_lost_page = 2000
 
 #Allows to enable some features related to others mods
 [compatibility]
